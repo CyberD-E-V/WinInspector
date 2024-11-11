@@ -1,4 +1,3 @@
-
 <div align="center">
   <div align="center">
     <img src="https://github.com/user-attachments/assets/5ba1c7cb-9b0a-405b-a1ec-c898bbaf4cb6" alt="WinInspector Logo" />
@@ -76,7 +75,7 @@ cd WinInspector</code></pre>
 
 <details>
   <summary><b>5. Ejecuta el script principal:</b></summary>
-  <pre><code>python wininspector.py</code></pre>
+  <pre><code>python WinInspector.py</code></pre>
 </details>
 
 ---
