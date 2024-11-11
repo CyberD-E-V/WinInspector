@@ -1,6 +1,8 @@
 # WinInspector
 <p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=WinInspector" alt="WinInspector Logo" />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/5ba1c7cb-9b0a-405b-a1ec-c898bbaf4cb6" alt="WinInspector Logo" />
+  </p>
 </p>
 
 ## Descripción
