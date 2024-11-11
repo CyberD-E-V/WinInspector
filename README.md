@@ -112,5 +112,15 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
+## 📝 Nota Importante
+
+> **Este es un proyecto en desarrollo.**  
+> Actualmente, **WinInspector** está en sus primeras etapas y es un proyecto pequeño enfocado en el aprendizaje y la práctica del manejo de scripts en Python.  
+> Aunque en el futuro planeo agregar nuevas actualizaciones y mejoras, por el momento está destinado principalmente para uso educativo y para quienes deseen aprender sobre la inspección de sistemas en Windows.  
+>  
+> Este proyecto lo llevo a cabo como un **hobby** y para divertirme, pero también con el objetivo de contribuir de alguna forma a la comunidad.  
+
+---
+
 **Creado por**: *Cyber-Dev*  
 *Fecha*: 11/11/2024
