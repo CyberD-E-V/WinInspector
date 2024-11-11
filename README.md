@@ -1,9 +1,9 @@
-# WinInspector
-<p align="center">
-  <p align="center">
+
+<div align="center">
+  <div align="center">
     <img src="https://github.com/user-attachments/assets/5ba1c7cb-9b0a-405b-a1ec-c898bbaf4cb6" alt="WinInspector Logo" />
-  </p>
-</p>
+  </div>
+</div>
 
 ## Descripción
 `WinInspector` es una herramienta de consola hecha con `Python` para `Windows`, diseñada para facilitar la inspección de información del sistema. Proporciona detalles importantes sobre la máquina, como:
